@@ -1,0 +1,18 @@
+header {
+  background-color: #fff;
+}
+
+h1 {
+  color: green;
+}
+
+body {
+  font-size: 20px;
+}
+body div {
+  font-style: 10px;
+}
+
+.red {
+  color: red;
+}
